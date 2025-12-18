@@ -33,4 +33,4 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/quezilu75/待办事项列表应用程序.git
+   git clone https://github.com/guozilu75-boop/todolist_application.git
